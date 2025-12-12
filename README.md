@@ -54,7 +54,7 @@ I enjoy working on systems that combine economics, cryptography, and software en
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Smart Contracts
 `Solidity` • `Foundry` • `Hardhat` • `OpenZeppelin` • `EVM` • `Alchemy` • `Sepolia`
