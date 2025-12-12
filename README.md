@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Luka Turunen** — Full-Stack Blockchain Engineer  
+# Hey, I'm **Luka Turunen**, a Full-Stack Blockchain Engineer  
 *I design and build complete Web3 products — from smart contracts to modern, production-grade frontends.*
 
 ---
